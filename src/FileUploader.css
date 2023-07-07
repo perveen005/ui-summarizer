@@ -1,0 +1,12 @@
+.App {
+    text-align: center;
+    margin-top: 2rem;
+  }
+  
+  .summary-box {
+    margin-top: 2rem;
+    padding: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
